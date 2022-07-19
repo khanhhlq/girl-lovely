@@ -10,7 +10,7 @@ const Hero = () => {
 
     const checkData = (event) => {
       if (event.key === 'Enter'){
-        if (message == "25112005"){
+        if (message == "2704"){
           setBruh(true)
           setShow(false)
           alert("Đợi một lát bất ngờ sẽ hiện ra 💌")
